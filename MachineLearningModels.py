@@ -80,4 +80,4 @@ def display_all_confusion_matrices(y_test):
     f.text(0.4, 0.1, 'Predicted label', ha='left')
     plt.subplots_adjust()
     f.colorbar(disp.im_)
-    plt.show()
+    plt.show()
